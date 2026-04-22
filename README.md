@@ -70,16 +70,19 @@ This indicates a moderately high level of interconnectedness, suggesting that sh
 Dominant Receiver
 - ACB emerges as a major hub
 - It absorbs spillover from a wide range of stocks
+
   👉 ACB plays a critical role in the system, acting as a central node in the risk transmission network. 
 
 🔴 Transmitters vs 🔵 Receivers
 - Majority of stocks are net transmitters
 - Only a few act as net receivers
+
   👉 This suggests risk is distributed widely but absorbed selectively, leading to concentration of systemic pressure.
 
 🧲 Sector Dynamics
 - Banking stocks form the core cluster of the network
 - Strong interconnections within the financial sector
+
   👉 The financial sector plays a key role in driving and absorbing market-wide shocks.
 
 --- 
